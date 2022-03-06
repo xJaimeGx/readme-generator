@@ -47,7 +47,7 @@ function promptUser(){
             name: "license",
             message: "Choose your license: ",
             choices: [
-                "Apache 2.0",
+                "Apache_2.0",
                 "BSD 3",
                 "BSD 2",
                 "GPL",

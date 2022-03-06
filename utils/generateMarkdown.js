@@ -3,7 +3,7 @@ function generateMarkdown(content) {
     return `
 <h1 align="center">${content.title}</h1>
   
-![badge](https://img.shields.io/badge/license-${content.license}-lightblue)<br />
+![badge](https://img.shields.io/badge/license-${content.license}-blue)<br />
 
 ## Description
 ${content.description}
@@ -30,7 +30,7 @@ ${content.tests}
 ${content.contribution}
 
 ## License
-![badge](https://img.shields.io/badge/license-${content.license}-lightblue)
+![badge](https://img.shields.io/badge/license-${content.license}-blue)
 <br />
 The README.md Generator is licensed by ${content.license}.
 

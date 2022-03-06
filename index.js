@@ -48,13 +48,11 @@ function promptUser(){
             message: "Choose your license: ",
             choices: [
                 "Apache_2.0",
-                "BSD 3",
-                "BSD 2",
-                "GPL",
-                "LGPL",
+                "GPLv3",
+                "LGPL_v3",
                 "MIT",
-                "Mozilla 2.0",
-                "Eclipse 2.0"
+                "MPL_2.0",
+                "EPL_1.0"
             ]
         },
 

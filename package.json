@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Used to create a README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJaimeGx/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Jaime Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJaimeGx/readme-generator/issues"
+  },
+  "homepage": "https://github.com/xJaimeGx/readme-generator#readme"
+}

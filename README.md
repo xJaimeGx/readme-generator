@@ -25,7 +25,8 @@ This project is good to use for quickly creating a README.md file.
 No
 
 ## Demo
-<iframe src="https://drive.google.com/file/d/1ThOGU4di-OL4Pamgl_-gpONsDrEGnN50/preview" width="640" height="480"></iframe>
+
+https://drive.google.com/file/d/1ThOGU4di-OL4Pamgl_-gpONsDrEGnN50/view
 
 ## Contributing
 There are no other contributors.

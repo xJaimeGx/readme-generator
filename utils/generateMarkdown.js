@@ -1,4 +1,3 @@
-// generateReadme function populating the README.md
 function generateMarkdown(content) {
     return `
 <h1 align="center">${content.title}</h1>

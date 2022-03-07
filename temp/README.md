@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-Apache_2.0-blue)<br />
 
 ## Description
-This is an application that will generate a README.md file for a developer's projects. Just install and answer a few questions to create a readme!
+This is an application to create a readme
 
 ## Table of Contents
 - [Description](#description)
@@ -16,16 +16,16 @@ This is an application that will generate a README.md file for a developer's pro
 - [Questions](#questions)
 
 ## Installation
-Install by using node.js.
+using node.js
 
 ## Usage
-This project is good to use for quickly creating a README.md file.
+to create readme files for developers
 
 ## Tests
-No
+no
 
 ## Contributing
-There are no other contributors.
+none
 
 ## License
 ![badge](https://img.shields.io/badge/license-Apache_2.0-blue)
